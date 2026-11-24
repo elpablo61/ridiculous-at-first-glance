@@ -1,0 +1,1 @@
+{"description":"One-sentence startup pitch for the make.fun bounty Ridiculous at First Glance, Real by the Second.","license":"MIT","main":"main.ts","name":"ridiculous-at-first-glance","private":true,"scripts":{"start":"node main.ts"},"type":"module","version":"1.0.0"}
